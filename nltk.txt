@@ -1,4 +1,5 @@
-corpus 
-stem 
-stopwords
-WordNetLemmatizer
+stopwords 
+wordnet 
+porter_test
+reuters 
+punkt
